@@ -10,15 +10,16 @@ Estudante de Análise e Desenvolvimento de Sistemas, usando este GitHub como *po
 - 🌱 Em constante aprendizado
 
 ## 🛠️ Tecnologias
-- C#
-- .NET
-- Git & GitHub
-- Aplicações Console
+- C#  
+- .NET  
+- Windows Forms  
+- Git & GitHub  
+- Aplicações Console  
 
 ## 📂 Projetos
 Os repositórios aqui são, em sua maioria, *projetos acadêmicos* desenvolvidos durante a faculdade, com foco em prática e evolução técnica.
 
-Cada projeto contém um *README explicando o objetivo, tecnologias usadas e o que foi aprendido*.
+- Contém um *README separado explicando o objetivo, tecnologias usadas e o que foi aprendido*.
 
 ## 📍 Localização
 São Paulo, Brasil 🇧🇷
