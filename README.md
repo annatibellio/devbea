@@ -1,6 +1,6 @@
 # 👩‍💻 Anna Tibellio (Dev Bea)
 
-Oi! Eu sou a *Anna, também conhecida como **Dev Bea* ✨  
+Oi! Eu sou a *Anna, também conhecida como *Dev Bea* ✨  
 Estudante de *Análise e Desenvolvimento de Sistemas, usando este GitHub como **portfólio acadêmico* e espaço de aprendizado.
 
 ## 🚀 Sobre mim
