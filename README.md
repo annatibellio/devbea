@@ -1,11 +1,11 @@
 # 👩‍💻 Anna Tibellio (Dev Bea)
 
 Oi! Eu sou a *Anna, também conhecida como *Dev Bea* ✨  
-Estudante de *Análise e Desenvolvimento de Sistemas, usando este GitHub como **portfólio acadêmico* e espaço de aprendizado.
+Estudante de *Análise e Desenvolvimento de Sistemas, usando este GitHub como *portfólio acadêmico* e espaço de aprendizado.
 
 ## 🚀 Sobre mim
 - 📚 Estudante de ADS
-- 💻 Foco atual em **C#** e **.NET**
+- 💻 Foco atual em *C#** e *.NET**
 - 🧠 Interesse em lógica de programação, POO e desenvolvimento backend
 - 🌱 Em constante aprendizado
 
@@ -24,6 +24,6 @@ Cada projeto contém um *README explicando o objetivo, tecnologias usadas e o qu
 São Paulo, Brasil 🇧🇷
 
 ## 🌸 Observação
-Este perfil representa minha jornada na área de tecnologia. Projetos simples fazem parte do processo — aprendizado contínuo é a prioridade.
+Este perfil representa minha jornada na área de tecnologia. Projetos simples fazem parte do processo, o aprendizado contínuo é a prioridade.
 
 ✨ Um commit por vez.
