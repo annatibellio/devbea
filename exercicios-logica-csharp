@@ -1,5 +1,22 @@
-Primeira versão dos exercícios de lógica:
+# Exercícios de Lógica em C#
 
-<Solution>
-  <Project Path="EXERC_LOG/EXERC_LOG.csproj" />
-</Solution>
+Projeto desenvolvido para praticar conceitos básicos de lógica de programação utilizando C#.
+
+## 📌 Funcionalidades
+- Menu interativo no console
+- Execução de 12 exercícios diferentes
+
+## 🧠 Conceitos praticados
+- Entrada e saída de dados
+- Estruturas condicionais
+- Laços de repetição
+- Métodos
+- Organização de código
+
+## 🛠 Tecnologias
+- C#
+- .NET
+- Console Application
+
+## 🎓 Contexto
+Projeto acadêmico desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas.
